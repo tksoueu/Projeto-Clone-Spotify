@@ -80,6 +80,14 @@ nav.navbar-transparente {
     color: #000;
 }
 
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+}
+
+#carousel-spotify a {
+    text-decoration: none;
+}
+
 /* estrutura de conteúdos */
 .albuns {
     padding: 10px 0px;
